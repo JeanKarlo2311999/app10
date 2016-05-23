@@ -10,7 +10,7 @@
 	<name>APP10Piano</name>
 	
 	
-	<description>Utiliza Plugins de audio con un piano y las 7 notas musicales Junio 2016/description>
+	<description>Utiliza Plugins de audio con un piano y las 7 notas musicales Junio 2016</description>
 	
 	 
 	 <preference name="phonegap-version" value="3.1.0" />
